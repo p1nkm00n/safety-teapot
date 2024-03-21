@@ -1,0 +1,37 @@
+{
+  "name": "safety-teapot",
+  "version": "1.0.0",
+  "description": "Safeguard your tea-related assets with Safety Teapot, a security-focused package offering encryption and access control mechanisms.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p1nkm00n/safety-teapot"
+  },
+  "author": "p1nkm00n",
+  "license": "MIT",
+  "dependencies": {
+    "safety-teapot": "1.0.0",
+    "teapot-safety-orbiter": "1.0.0",
+    "bluebird": "1.0.0",
+    "react-dom": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "mongoose": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "cors": "1.0.0",
+    "underscore": "1.0.0",
+    "firebase": "1.0.0",
+    "mocha": "1.0.0",
+    "web3-utils": "1.0.0",
+    "moment": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "xml2js": "1.0.0",
+    "validator": "1.0.0",
+    "webpack": "1.0.0",
+    "body-parser": "1.0.0",
+    "truffle": "1.0.0",
+    "sinon": "1.0.0"
+  }
+}
